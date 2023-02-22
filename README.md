@@ -2,7 +2,7 @@
 React를 학습하면서 만들어본 초간단 todo-app
 
 ## 화면 이미지
-<img width="80%" src="https://user-images.githubusercontent.com/21376061/218392015-e198ef26-ee61-4b6e-b3df-0571003a82e6.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/21376061/220573937-31905569-72a2-4d43-aef9-411c036f7020.png"/>
 
 ## 라이브러리
 react-bootstrap
